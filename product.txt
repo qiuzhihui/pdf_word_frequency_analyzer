@@ -1,0 +1,2443 @@
+ 
+
+ 
+
+J.P. Morgan Prime Brokerage Global Hedge Fund Trends 
+
+ 
+
+ 
+
+ 
+April 14, 2015 
+ 
+Executive Summary 
+All  of  the  major  hedge  fund  strategy  segments  generated 
+positive returns in March, with aggregate average performance 
+of +0.53%. For the quarter, hedge funds have returned +2.42% 
+in aggregate, well in excess of broader market indices. Global 
+macro  outperformed  relative  to  the  other  key  hedge  fund 
+strategies.  
+Leverage 
+Across the Prime Brokerage portfolio, gross leverage1 was flat 
+in March at 1.82 (+0.05%). Gross leverage of levered accounts 
+also remained stable at 2.36 (+0.04%). Although net exposure2
+ 
+rose  from  0.65  to  0.67  (+1.95%),  hedge  fund  clients  remain 
+defensive,  with increased hedging of broad based ETFs. The 
+defensive-cyclical ratio remains close to a 52-week high.  
+ 
+Securities Lending 
+The  U.S.  Prime  Brokerage  short  book  experienced  moderate 
+covering for a second consecutive month as shorting in single 
+name  equities  was  offset  by  reductions  in  ETF  and  fixed 
+income exposures. In Europe, directional short interest in UK 
+supermarkets stabilized in March and hedge funds continue to 
+trade the spread in Spirit Pub Co. PLC  / Greene King PLC. 
+ 
+Institutional Investor Sentiment 
+During March, the Capital Introduction Group (CIG) met with 
+several of the most active institutional investors in the Chicago 
+region.  Demand  for  Asia-focused  strategies  is  particularly 
+acute.  Investors  remain  interested  in  discretionary  global 
+macro  but  have  been  frustrated  by  their  inability  to  identify 
+managers  with  consistent  performance.  In  Europe,  the  CIG 
+met with investors in Zurich, where activity appears to be on 
+the  increase,  especially  among  family  offices  and  banks. 
+Equity  long  short  remains  popular  among  investors  in  Asia, 
+particularly  with  respect  to  less  directional  managers  and 
+sector specialists. 
+ 
+Market Perspectives 
+Recent  signs  indicate  that  Europe’s  economic  trajectory  may 
+be at an inflection point and finally on the cusp of a nascent 
+recovery.  While  Europe’s  economic  affairs  are  trending 
+positively,  its  political  affairs  are  not.  Across  the  continent, 
+parties of the far left and right are gaining at the poles. Just as 
+a recovery seems to be taking hold in Europe, the continent’s 
+politics  are  moving  in  a  direction  that  will  render  growth 
+increasingly difficult. 
+                                                 
+1 Gross leverage is the total market value of long and short positions divided by clients' 
+equity in J.P. Morgan’s Prime Brokerage portfolio. 
+2 Calculated for Equity Long Short and Market Neutral funds on J.P. Morgan’s Prime 
+Brokerage platform only. Net exposure is defined as the market value of long positions 
+(LMV) minus the market value of short positions (SMV), divided by clients’ equity (Eq).  
+
+ 
+Figure 1: March 2015 performance 
+HFRI and Market Indices. Monthly Returns 
+4.0%
+
+HF Index Equity 
+Hedge
+
+Event 
+Driven
+
+Macro Rel Value S&P 500 Fixed 
+Income
+
+CMDTY USD
+
+Credit
+
+3.0%
+
+2.0%
+
+1.0%
+
+0.0%
+
+-1.0%
+
+-2.0%
+
+-3.0%
+
+-4.0%
+
+-5.0%
+
+ 
+
+-6.0%
+Source: Bloomberg, Hedge Fund Research 
+ 
+Table 1: Performance of hedge fund strategies and asset classes 
+HFRI and Market Indices 3
+ 
+  
+HF Index 
+Equity Hedge 
+Event Driven 
+Macro 
+Relative Value 
+S&P 500 
+Fixed Income 
+CMDTY 
+USD 
+Credit 
+ 
+Source: Bloomberg, Hedge Fund Research 
+ 
+Figure 2: Hedge fund beta to equities    
+Rolling 21-day beta of HFRX equal-weighted index returns to the S&P 500 Total Return 
+Index 
+0.45
+
+2015 
+2.42% 
+2.34% 
+2.01% 
+3.39% 
+1.68% 
+ 0.95% 
+-1.79% 
+-5.14% 
+ 8.96% 
+ 2.30% 
+
+Mar-15 
+0.53% 
+0.51% 
+0.58% 
+0.70% 
+0.25% 
+-1.58% 
+-0.81% 
+-5.84% 
+ 3.22% 
+ 0.35% 
+
+4,000
+
+ 
+
+ 
+
+1 
+
+0.40
+
+0.35
+
+0.30
+
+0.25
+
+0.20
+
+0.15
+
+0.10
+
+0.05
+
+0.00
+
+Jun-13
+
+3,900
+
+3,800
+
+3,700
+
+3,600
+
+3,500
+
+3,400
+
+3,300
+
+3,200
+
+3,100
+
+3,000
+
+2,900
+
+2,800
+
+2,700
+
+Sep-13
+
+Dec-13
+
+Mar-14
+
+Jun-14
+
+Sep-14
+
+Dec-14
+
+Mar-15
+
+Equity Beta (LHS)
+
+S&P 500 Total Return Index (RHS)
+
+ Source: Bloomberg, Hedge Fund Research 
+                                                 
+3 Market indices from Bloomberg are as follows: S&P 500 (SPTR Index), Fixed Income 
+(JPMGGLBL Index), CMDTY (SPGSCI Index), USD (DXY Index) and Credit (JULIR 
+Index). 
+
+This material is provided by J.P. Morgan’s Prime Brokerage business for informational purposes only. It is not a product of J.P. Morgan’s Research Departments.  
+
+For intended Institutional Investor recipients only. The reference period for this publication is March 2015 unless otherwise stated. 
+
+ 
+
+Prime Brokerage Global Hedge Fund Trends – Performance, Leverage, and Risk Exposures 
+
+ 
+
+ 
+ 
+institutional investor interest in greater European exposure is 
+on the rise.  
+ 
+The  rapid  year-to-date  ascent  of  the  U.S.  Dollar  (+8.96%) 
+continued  in  March.  Even  after  the  Dollar  retreated  in  the 
+wake  of  the  FOMC  meeting,  it  was  still  up  +3.22%  on  the 
+month. For the quarter, the Dollar has gained against all but 
+five currencies (see Figure 3), which highlights the strength 
+of  the  U.S.  economy  relative  to  other  regions.  The  recent 
+pickup in Europe  may slow  the Dollar’s rise,  which in turn 
+could  create  tailwinds  for  U.S.  firms  that  are  reliant  on 
+exports.  A  number  of  global  macro  funds  with  long  USD 
+exposure have outperformed on this trade. 
+ 
+Figure 3: Global currencies’ performance vs. USD year-to-date 
+
+ This section presents a summary of the changes that we have observed in leverage and sector exposures across the range of hedge funds that we 
+work with. The confidentiality of our clients’ positions is important to us and as such this information has been aggregated and displayed in an 
+anonymous manner in an effort to mitigate the risk of revealing or alluding to any one fund’s exposures. Information may be excluded due to the 
+perceived risk of revealing sensitive information. The information discussed is specific to activities on J.P. Morgan’s books, and may not represent 
+total client activity. These numbers should only be viewed as representative observations. 
+ 
+Market Overview 
+The combination in March of a strengthening U.S. Dollar and 
+weak  economic  data  –  namely,  shortfalls  in  consumer 
+spending and durable goods orders – culminated in a Federal 
+Open  Markets  Committee  (FOMC)  meeting 
+that  was 
+surprisingly  dovish.  Not  only  did  the  Fed  remove  the 
+“patient”  language  from  its  guidance  –  a  development  that 
+had  been  widely  expected  –  but  it  revised  downward  its 
+interest  rate  projections  to  a  greater  extent  than  the  market 
+had  anticipated.  The  recent  weakness  in  economic  data  and 
+the consequent variability now surrounding the timing of the 
+Fed’s  prospective  increase  in  forward  rates  has  created  an 
+element of uncertainty for investors. 
+ 
+March  was  therefore  a  challenging  month  for  most  risk 
+assets, with declining bond yields, a fall in commodities and 
+lackluster  equity  markets.  Falling  bond  yields  were  partly  a 
+function of Fed dovishness and the European Central Bank’s 
+(ECB)  quantitative  easing  program,  which  commenced  on 
+March 9. Partly as a result of declining fixed income yields, 
+credit spreads widened. Although spreads for U.S. high grade 
+bonds increased only 8 basis points, U.S. and European high 
+yields spreads widened 29 and 39 basis points, respectively. 
+U.S. high yield securities fell -0.58% on the month while the 
+10-Year Treasury and high grade bonds gained +0.77% and 
++0.33%,  respectively.  At  the  same  time,  the  yield  for  U.S. 
+high yield bonds rose +0.25% month-over-month. 
+ 
+Equities  suffered  a  pullback  in  March.  The  S&P  500  Index 
+fell  -1.58%  on  the  month  and  the  MSCI  AC  World  Index 
+declined nearly -2%. Emerging markets also were weak, with 
+the MSCI EM Index off -1.59%. The retreat for the S&P 500 
+was a function largely of soft data, starting with a decrease in 
+personal spending and weak auto sales at the outset of March 
+and culminating with the downside surprise in durable goods. 
+Equity markets were therefore choppy throughout the month. 
+Yet,  despite  headwinds  from  the  rising  U.S.  Dollar  and  the 
+collapse  in  oil  prices,  equity  markets  fared  reasonably  well 
+over  the  first  quarter.  The  S&P  500  rose  +0.95%,  EM 
+returned  +1.91%  and  Europe  demonstrated  particular 
+strength, with the MSCI EAFE up +4.88% for Q1 as a result 
+of 
+the  Eurozone. 
+Consequently,  many  equity  hedge  funds  are  bullish  on  the 
+region and are increasing their exposure to Europe. Similarly,  
+
+Source: J.P. Morgan Global Asset Allocation, Bloomberg 
+ 
+Volatility rose in March, as the VIX Index increased +14.6% 
+to  close  the  month  at  15.29,  above  the  52-week  average  of 
+14.59. As shown in Figure 4,  with the exception of copper, 
+implied volatilities increased month-over-month, particularly 
+with respect to investment  grade credit. A  number of credit 
+funds  added  hedges  against  cash  bonds  but  reduced  such 
+positions heading into month-end. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+better-than-expected 
+
+across 
+
+data 
+
+D
+U
+A
+
+K
+O
+N
+
+D
+G
+S
+
+R
+A
+Z
+
+N
+L
+P
+
+P
+O
+C
+
+K
+Z
+C
+
+Y
+R
+T
+
+R
+U
+E
+
+W
+R
+K
+
+D
+K
+H
+
+P
+B
+G
+
+F
+U
+H
+
+B
+U
+R
+
+F
+H
+C
+
+N
+E
+P
+
+D
+Z
+N
+
+Y
+P
+J
+
+P
+L
+C
+
+D
+A
+C
+
+K
+E
+S
+
+S
+R
+A
+
+R
+D
+
+I
+
+K
+K
+D
+
+L
+R
+B
+
+-16.0%
+
+D
+W
+T
+
+R
+N
+
+I
+
+Y
+N
+C
+
+S
+L
+I
+
+N
+X
+M
+
+2.0%
+
+0.0%
+
+6.0%
+
+4.0%
+
+-14.0%
+
+-12.0%
+
+-2.0%
+
+-4.0%
+
+-6.0%
+
+-8.0%
+
+R
+Y
+M
+
+ 
+
+ 
+
+-10.0%
+
+ 
+
+This material is provided by J.P. Morgan’s Prime Brokerage business for informational purposes only. It is not a product of J.P. Morgan’s Research Departments.  
+
+For intended Institutional Investor recipients only. The reference period for this publication is March 2015 unless otherwise stated. 
+
+2 
+
+ 
+
+Prime Brokerage Global Hedge Fund Trends – Performance, Leverage, and Risk Exposures 
+
+Figure 4: Changes in implied volatility during March 
+
+US 10y Swaps
+Euro 10y Swaps
+CDX.IG
+iTraxx Main
+Corn
+Gold
+Copper
+Oil
+G7FX
+VXEEM
+VNKY
+VIX
+VSTOXX
+
+-20%
+
+0%
+
+20%
+
+40%
+
+60%
+
+ 
+
+returns 
+
+Source: J.P. Morgan Global Asset Allocation 
+ 
+Composite Hedge Fund Performance 
+All  of  the  major  hedge  fund  strategy  segments  generated 
+positive 
+in  March,  with  aggregate  average 
+performance  of  +0.53%.  Year-to-date,  hedge  funds  have 
+returned  +2.42%  in  aggregate,  well  in  excess  of  broader 
+market indices.  
+ 
+Global Macro 
+Global  macro  strategies  posted  gains  of  +0.70%  in  March 
+and  +3.39%  on  the  quarter.  As  has  predominantly  been  the 
+case in  most  months preceding March, systematic strategies 
+fueled  gains,  with  an  aggregate  return  of  +1.06%.  Over  the 
+first  quarter,  such  strategies  generated  aggregate  returns  of 
++5.14%,  largely  as  a  result  of  short  energy  and  long  U.S. 
+Dollar (especially versus the Euro) trades. Several managers 
+also  profited  from  long  U.S.  rates  positions,  particularly  in 
+response to the FOMC meeting. Global macro strategies have 
+now  posted  five  months  of  positive  returns  and  have 
+generated gains in ten of the preceding twelve months.  
+ 
+Event Driven 
+Event driven strategies posted aggregate gains of +0.58% in 
+March  and  +2.01%  for  the  first  quarter.  Special  situations 
+managers  were  chiefly  responsible  for  those  returns,  rising 
++1.35%  on  the  month.  In  contrast  to  February,  activist 
+managers had lackluster returns in March amidst soft equity 
+markets. Robust deal activity again resulted in an auspicious 
+landscape for merger arbitrage funds, which returned +0.52% 
+for  March  and  +2.36%  for  the  first  quarter.  In  particular, 
+merger  arbitrage  clients  benefitted  from  positioning  around 
+the OptumRX/Catamaran, Omega Healthcare/Aviv REIT and 
+Renasant/Heritage Financial transactions. 
+
+Equity Hedge 
+Equity  long  short  strategies  returned  +0.51%  in  March  and 
++2.34%  for  the  quarter.  A  number  of  managers  benefitted 
+from  stabilizing  oil  prices.  Consequently,  funds  with 
+exposure  to  energy  and  basic  materials  posted  aggregate 
+returns  of  +2.54%  on  the  month,  and  +3.50% over  the  first 
+quarter. Multi-strategy equity platforms posted an aggregate 
++1.84%  in  March  and  had  the  strongest  returns  over  the 
+quarter  (+5.70%)  among  any  of  the  equity  sub-strategies. 
+Market  neutral  strategies  also  helped  drive  gains  in  March, 
+rising +0.70%.  
+ 
+Moreover, as seen in Figure 2 (hedge fund beta to equities), 
+hedge  fund  beta  increased  during  March.  That  increase 
+partially  reflects  changes  in  portfolio  composition  and 
+sensitivity to high beta sectors. 
+ 
+Figure 5: Sector performance (S&P 500 Index), March 2015 
+
+0.76%
+
+1.0%
+
+0.0%
+
+-1.0%
+
+-2.0%
+
+-3.0%
+
+-4.0%
+
+-5.0%
+
+-6.0%
+
+-0.64% -0.78%
+
+-1.31%
+
+-2.03%
+
+-2.43% -2.68%
+
+-3.39%
+
+-3.79%
+
+-4.99%
+
+ 
+
+Source: Bloomberg, Standard & Poor’s 
+ 
+Relative Value 
+Fixed  income  relative  value  strategies  returned  +0.25% 
+month-over-month,  aided  by  falling  fixed  income  yields. 
+However,  high  yield  markets  posed  a  challenge  for  relative 
+value managers as spreads widened 29 basis points but while 
+generating  a  -0.58%  return  month-over-month.  Portfolio 
+hedges,  particularly  with  respect  to  U.S.  rates,  were  a  net 
+drag during March.  
+ 
+ 
+ 
+ 
+
+This material is provided by J.P. Morgan’s Prime Brokerage business for informational purposes only. It is not a product of J.P. Morgan’s Research Departments.  
+
+For intended Institutional Investor recipients only. The reference period for this publication is March 2015 unless otherwise stated. 
+
+3 
+
+ 
+
+Prime Brokerage Global Hedge Fund Trends – Performance, Leverage, and Risk Exposures 
+
+Leverage and Risk Exposures 
+ 
+Gross Leverage 
+Across the Prime Brokerage portfolio, gross leverage was flat 
+in March at 1.82 (+0.05%) (See Figure 6). Clients remained 
+defensive  amidst  an  uptick  in  volatility  (+14.62%).  Hedge 
+fund clients remain overweight Consumer, Non-cyclicals and 
+have added broad based ETF hedges, which are near 52-week 
+highs. Defensive versus cyclical exposures within the Prime 
+Brokerage  portfolio  also  remain  at  a  52-week  high.  Gross 
+leverage of levered accounts  also  was flat at 2.36 (+0.04%) 
+(See Figure 7).  
+ 
+Figure 6: Daily gross leverage and the S&P 500 Index 
+
+Figure 8: Daily Gross Leverage vs. CBOE VIX Index 
+90.0
+
+80.0
+
+70.0
+
+60.0
+
+50.0
+
+40.0
+
+30.0
+
+20.0
+
+10.0
+
+0.0
+Mar-13 May-13 Jul-13 Sep-13 Nov-13 Jan-14 Mar-14 May-14 Jul-14 Sep-14 Nov-14 Jan-15 Mar-15
+
+VIX
+
+Gross Leverage
+
+2.0 
+
+1.9 
+
+1.8 
+
+1.7 
+
+1.6 
+
+1.5 
+
+1.4 
+
+ 
+
+Source: Bloomberg, J.P. Morgan Prime Brokerage 
+ 
+Gross Leverage by Strategy 
+Convertible  Arbitrage,  Equity  Long-Short  and  High  Grade 
+Fixed Income experienced increases in gross leverage month-
+over-month.  Market  Neutral,  Multi-Strategy  and  High 
+Yield/Multi Fixed Income saw declines.  Equity Long-Short, 
+Multi-Strategy  and  High  Grade  Fixed  Income  are  running 
+gross leverage above their two-year average levels while all 
+other  strategies  are  running  below  their  two-year  average 
+levels. 
+ 
+Figure 9: Gross leverage by strategy 
+
+ 
+
+ 
+
+2.5 
+
+2.4 
+
+2.3 
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+Market Neutral Equity Long 
+
+Short
+
+Multi-Strategy Convertible 
+
+Arbitrage
+
+High Grade 
+Fixed Income
+
+High 
+
+Yield/Multi 
+Fixed Income
+
+Jan-15
+
+Feb-15 Mar-15
+
+Source: J.P. Morgan Prime Brokerage 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+4 
+
+1.95 
+
+1.90 
+
+1.85 
+
+1.80 
+
+1.75 
+
+1.70 
+
+2,150
+
+2,100
+
+2,050
+
+2,000
+
+1,950
+
+1,900
+
+1,850
+
+1,800
+
+Mar-14 May-14
+
+Jul-14
+
+Sep-14 Nov-14
+
+Jan-15 Mar-15
+
+S&P 500 Index (LHS)
+
+Gross Leverage (RHS)
+
+Source: Bloomberg, J.P. Morgan Prime Brokerage 
+ 
+Figure 7: Gross leverage (levered accounts) 5-day moving 
+average and the S&P 500 Index 
+
+2,150
+
+2,100
+
+2,050
+
+2,000
+
+1,950
+
+1,900
+
+1,850
+
+1,800
+
+Mar-14
+
+May-14
+
+Jul-14
+
+Sep-14
+
+Nov-14
+
+Jan-15
+
+Mar-15
+
+S&P 500 Index (LHS)
+
+Gross Leverage (Levered Account s - RHS)
+
+Source: Bloomberg, J.P. Morgan Prime Brokerage 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+This material is provided by J.P. Morgan’s Prime Brokerage business for informational purposes only. It is not a product of J.P. Morgan’s Research Departments.  
+
+For intended Institutional Investor recipients only. The reference period for this publication is March 2015 unless otherwise stated. 
+
+ 
+
+Prime Brokerage Global Hedge Fund Trends – Performance, Leverage, and Risk Exposures 
+
+Industrial  and  Technology  sectors,  which  experienced 
+decreases in longs and similar levels of shorts to last month.  
+ 
+Table 3: Long and short exposures by sector  
+Long (Short) exposure by sector as a percentage of total client long (short) exposure in 
+Prime Brokerage portfolio 
+ 
+
+Long exposure 
+
+Short exposure 
+
+  
+  
+Basic Materials 
+Communications 
+Consumer, Cyclical 
+Consumer, Non-
+cyclical 
+Diversified 
+Energy 
+Non sector-specific 
+ETF 
+Financial 
+Industrial 
+Technology 
+Utilities 
+Government 
+Other 
+
+Mar-14 
+3.9% 
+16.4% 
+11.4% 
+
+14.6% 
+
+0.4% 
+9.2% 
+
+3.3% 
+
+17.7% 
+6.1% 
+4.8% 
+1.5% 
+7.2% 
+3.6% 
+
+Feb-15 
+3.7% 
+14.2% 
+11.1% 
+
+20.5% 
+
+0.5% 
+7.9% 
+
+5.0% 
+
+15.3% 
+5.9% 
+5.5% 
+1.6% 
+6.6% 
+2.2% 
+
+Mar-15 
+3.8% 
+14.0% 
+10.4% 
+
+21.5% 
+
+0.4% 
+9.0% 
+
+5.8% 
+
+14.0% 
+5.7% 
+5.2% 
+1.6% 
+6.1% 
+2.5% 
+
+Mar-14 
+4.3% 
+6.6% 
+7.9% 
+
+11.1% 
+
+0.0% 
+6.6% 
+
+16.1% 
+
+8.2% 
+7.2% 
+6.2% 
+2.2% 
+9.3% 
+14.3% 
+
+Feb-15 
+4.8% 
+8.2% 
+8.8% 
+
+11.3% 
+
+0.1% 
+8.8% 
+
+16.9% 
+
+7.9% 
+7.3% 
+6.1% 
+1.4% 
+7.2% 
+11.2% 
+
+Mar-15 
+4.0% 
+8.1% 
+8.8% 
+
+11.6% 
+
+0.1% 
+8.0% 
+
+16.9% 
+
+8.8% 
+7.7% 
+6.1% 
+1.5% 
+6.9% 
+11.1% 
+
+ 
+Source: J.P. Morgan Prime Brokerage 
+ 
+ 
+
+Table 2: Gross leverage by strategy 
+Average and first quartile calculated for the period March 2013 to March 2015 
+ 
+
+ 
+
+Jan-15
+
+Feb-15 Mar-15 Average
+
+First 
+Quartile
+
+% Change
+
+Market Neutral
+Equity Long Short
+Multi-Strategy
+Convertible Arbitrage
+High Grade Fixed Income
+High Yield/Multi Fixed Income
+PB Portfolio (Levered Accounts)
+
+3.79
+1.91
+1.76
+3.64
+2.34
+1.27
+2.41
+
+3.63
+1.90
+1.80
+3.41
+2.29
+1.33
+2.36
+
+3.43
+2.04
+1.80
+3.44
+2.33
+1.32
+2.37
+
+3.98
+2.02
+1.75
+3.73
+2.23
+1.40
+2.42
+
+3.79
+1.96
+1.72
+3.56
+2.11
+1.36
+2.37
+
+-5.4%
+7.3%
+-0.1%
+0.8%
+1.8%
+-0.7%
+0.2%
+
+ 
+Source: J.P. Morgan Prime Brokerage 
+ 
+Net Exposure and Net Leverage 
+Among  equity-biased  funds,  the  long-short  ratio  fell  from 
+0.83 to 0.81 (-2.33%). Net exposure rose  from 0.65 to 0.67 
+(+1.95%).  
+ 
+Figure 10: Net exposure and net leverage 
+Equity  Long  Short  and  Market  Neutral  funds  on  the  Prime  Brokerage  platform  only. 
+LMV: Market value of long positions. SMV: Market value of short positions.  
+Eq: Equity in clients’ accounts 
+
+ 
+
+1.1 
+
+1.0 
+
+0.9 
+
+0.8 
+
+0.7 
+
+0.6 
+
+Mar-14
+
+May-14
+
+Jul-14
+
+Sep-14
+
+Nov-14
+
+Jan-15
+
+Mar-15
+
+Long-Short Ratio (LMV/SMV)-1
+
+Net Exposure (LMV-SMV)/Eq
+
+ 
+
+(+0.5%).  The 
+
+Source: J.P. Morgan Prime Brokerage 
+ 
+Sector Exposures 
+The  largest  month-over-month  increases  in  the  long  Prime 
+Brokerage  portfolio  were  Energy  (+0.6%)  and  Consumer, 
+Non-Cyclical 
+largest  month-over-month 
+decline occurred in the Industrial sector (-0.3%).  
+ 
+The largest increase in short exposure in March occurred in 
+the  Financial  sector  (+0.9%).  The  largest  decline  in  month-
+over-month short exposure was in Energy (-0.8%) and Basic 
+Materials (-0.4%). 
+ 
+On a month-over-month basis, the Prime Brokerage portfolio 
+increased  exposure  to  Energy  and  Basic  Materials,  both  of 
+which  saw  an  increase  in  longs  and  a  decline  in  shorts. 
+However,  the  exposure  lean  is  still  well  off  of  2014  highs.  
+The Prime Brokerage Portfolio also reduced exposure to the 
+
+This material is provided by J.P. Morgan’s Prime Brokerage business for informational purposes only. It is not a product of J.P. Morgan’s Research Departments.  
+
+For intended Institutional Investor recipients only. The reference period for this publication is March 2015 unless otherwise stated. 
+
+5 
+
+ 
+
+Prime Brokerage Global Hedge Fund Trends – Securities Lending 
+
+over  25  million  shares  in  lending  programs  with 
+overnight rates unchanged at GC. 
+
+Fixed Income 
+For the first time in 2015, the Prime Brokerage fixed income 
+book  experienced  a  net  decrease  in  the  market  value  of 
+corporate  bonds. 
+Investment  grade,  high  yield  and 
+convertible  bonds  all  experienced  net  covering,  while  there 
+was  a  slight  increase  in  market  value  of  shorts  in  U.S. 
+treasuries.  Within  corporate  credit,  significant  covering  was 
+driven  by  large  net  covers  Basic  Materials,  Energy,  and 
+Financials.  Throughout  the  month,  the  following  capital 
+structures  experienced  a  high  volume  of  inquiries  and/or 
+short  volumes:  Peabody  Energy  Corp.  (BTU),  Fortescue  – 
+FMG Resources Pt. Ltd. (FMGAU), Transocean Ltd. (RIG), 
+and Vale Overseas Ltd. (VALE). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+North America  
+Equities 
+The U.S. Prime Brokerage short book experienced moderate 
+covering for a second consecutive month as shorting in single 
+name  equities  was  offset  by  reductions  in  ETF  and  fixed 
+income  exposures. Gross  volume  increased  +12%  versus 
+February and intra-month volatility was high.  From a sector 
+perspective,  the  largest  reductions  occurred  in  Consumer, 
+Non-cyclicals  and  Communications  while  Financials  and 
+Energy led short increases.   
+ 
+ETFs  
+The  U.S.  Prime  Brokerage  ETF  book  was  moderately  net 
+covered  in  March. Broad  based  ETFs  such  as SPY  (SPDR 
+S&P 500 ETF), IWM (iShares Russell 200 ETF) and MDY 
+(SPDR  S&P  MidCap  400  ETF  Trust)  drove  cover  activity. 
+Internationally-focused  ETFs  bucked  the  trend,  with  short 
+increases in EFA (iShares MSCI EAFE ETF), EWZ iShares 
+MSCI  Brazil  Capped  ETF)  and  EEM  (iShares  MSCI 
+Emerging  Markets  ETF).  The  largest  inflows  (increase  in 
+shares outstanding) occurred in HEDJ (WisdomTree Europe 
+Hedged Equity ETF), EFA and IWM. 
+ 
+Event Driven 
+•  On March 31, Endurance Specialty Holdings Ltd. (ENH) 
+announced  the  acquisition  of  Montpelier  Re  Holdings 
+Ltd. (MRH) in a $1.74 billion cash and stock transaction. 
+MRH shareholders will receive $9.89 in cash and 0.472 
+shares of ENH for each share held. ENH overnight rates 
+are  currently  trading  at  -0.75%  with  approximately  9.9 
+million shares currently in lending programs.  
+
+ 
+
+•  On March 9, Alcoa Inc. (AA) announced its acquisition 
+of  RTI  International  Metals  Inc.  (RTI)  in  an  all  stock 
+transaction  valued  at  $1.47  billion.  The  RTI  deal  is 
+Alcoa’s  second  largest  acquisition  since  2010.  Deal 
+terms  state  that  RTI  shareholders  will  receive  2.8315 
+shares  of  AA  for  each  share  held.  AA  overnight  rates 
+have remained GC, with over 100 million shares spread 
+among lenders. 
+
+ 
+
+•  On  March  2,  NXP  Semiconductors  NV 
+
+(NXPI) 
+announced  the  acquisition  of  Freescale  Semiconductors 
+Ltd.  (FSL)  in  a  cash  and  stock  transaction  valued  over 
+$15.7 billion, making it the largest semiconductor deal of 
+all  time.  FSL  shareholders  are  set  to  receive  $6.25  in 
+cash and 0.3521 shares of NXPI. Currently there are just 
+
+This material is provided by J.P. Morgan’s Prime Brokerage business for informational purposes only. It is not a product of J.P. Morgan’s Research Departments.  
+
+For intended Institutional Investor recipients only. The reference period for this publication is March 2015 unless otherwise stated. 
+
+6 
+
+ 
+
+Prime Brokerage Global Hedge Fund Trends – Securities Lending 
+
+Table 5: U.S. securities lending trends by ETFs 
+For the month of March 2015 
+ 
+
+  
+
+  
+ 
+SPDR S&P 500 ETF 
+TRUST 
+ISHARES RUSSELL 2000 
+ETF 
+ISHARES NASDAQ 
+BIOTECHNOLOGY ETF 
+HEALTHCARE SELECT 
+SECTOR ETF 
+SPDR S&P BIOTECH ETF 
+
+ISHARES US REAL 
+ESTATE ETF 
+ISHARES IBOXX HIGH 
+YIELD CORPORATE 
+BOND ETF 
+ISHARES MSCI BRAZIL 
+CAPPED ETF 
+ISHARES NASDAQ 
+CONSUMER 
+DISCRETIONARY ETF 
+FINANCIAL 
+SELECTSECTOR SPDR 
+ETF 
+
+5 Day 
+
+30 Day 
+
+90 Day 
+
+Price 
+Change 
+
+(2.2%) 
+
+(1.7%) 
+
+(4.8%) 
+
+(2.0%) 
+
+(7.1%) 
+
+(1.3%) 
+
+Position 
+Change 
+(shares) 
+
+Price 
+Change 
+
+Position 
+Change 
+(shares) 
+
+Price 
+Change 
+
+Position 
+Change 
+(shares) 
+
+(1.1%) 
+
+(2.5%) 
+
+(10.1%) 
+
+2.0%  
+
+(15.8%) 
+
+(3.1%) 
+
+44.2%  
+
+1.2%  
+
+8.2%  
+
+0.1%  
+
+1.1%  
+
+0.3%  
+
+0.2%  
+
+(9.3%) 
+
+(2.0%) 
+
+(15.0%) 
+
+4.8%  
+
+(7.6%) 
+
+54.4%  
+
+13.0%  
+
+103.7%  
+
+4.6%  
+
+0.3%  
+
+1.9%  
+
+5.8%  
+
+18.4%  
+
+2.6%  
+
+0.8%  
+
+2.5%  
+
+(36.5%) 
+
+(0.2%) 
+
+(0.8%) 
+
+(1.1%) 
+
+(4.5%) 
+
+2.2%  
+
+(3.8%) 
+
+1.2%  
+
+(8.5%) 
+
+(8.4%) 
+
+72.7%  
+
+(9.1%) 
+
+44.9%  
+
+(1.7%) 
+
+(1.0%) 
+
+(0.5%) 
+
+13.9%  
+
+7.6%  
+
+15.7%  
+
+(2.9%) 
+
+12.2%  
+
+(1.5%) 
+
+15.7%  
+
+(0.5%) 
+
+134.2%  
+
+ 
+
+ 
+
+Figure 11: Cumulative net activity 
+Market value change of activity across equities, ETFs, and fixed income  
+
+$12.0
+
+$10.0
+
+$8.0
+
+$6.0
+
+$4.0
+
+$2.0
+
+$0.0
+
+-$2.0
+
+-$4.0
+
+Equity
+
+ETF
+
+Fixed Income
+
+Net Activity
+
+ 
+Source: J.P. Morgan Securities Lending 
+ 
+Figure 12: Rolling 1-month daily short flow 
+Daily Activity Relative to 30-Day Average (LHS) and S&P 500 Index (RHS) 
+
+235%
+
+185%
+
+135%
+
+85%
+
+35%
+
+-15%
+
+-65%
+
+-115%
+
+-165%
+
+-215%
+
+-265%
+
+27-Feb
+
+04-Mar
+
+09-Mar
+
+14-Mar
+
+19-Mar
+
+24-Mar
+
+2,125
+
+2,100
+
+2,075
+
+2,050
+
+2,025
+
+Net Cover Activity
+
+Net Short Activity
+
+S&P500 Price
+
+Source: Bloomberg, J.P. Morgan Securities Lending 
+ 
+Table 4: U.S. securities lending trends by sector 
+For the month of March 2015 
+ 
+
+  
+
+5 Day 
+
+30 Day 
+
+90 Day 
+
+  
+Consumer, Non-cyclical 
+Financial 
+Technology 
+Energy 
+Communications 
+Industrial 
+Consumer, Cyclical 
+Basic Materials 
+Utilities 
+
+Price 
+Change 
+(2.3%) 
+(1.2%) 
+(2.8%) 
+0.6%  
+(2.3%) 
+(1.8%) 
+(0.8%) 
+0.6%  
+(2.0%) 
+
+Position 
+Change 
+(shares) 
+(0.3%) 
+2.5%  
+1.8%  
+(0.9%) 
+0.7%  
+(2.0%) 
+0.1%  
+(2.8%) 
+18.2%  
+
+Price 
+Change 
+0.7%  
+(1.6%) 
+(4.3%) 
+(5.1%) 
+(2.5%) 
+(1.2%) 
+(1.0%) 
+(7.1%) 
+(3.7%) 
+
+Position 
+Change 
+(shares) 
+(1.2%) 
+9.8%  
+2.7%  
+2.8%  
+(1.1%) 
+5.1%  
+3.9%  
+(0.6%) 
+19.6%  
+
+Price 
+Change 
+10.7%  
+(0.3%) 
+0.1%  
+(0.6%) 
+3.3%  
+2.5%  
+4.7%  
+(1.7%) 
+(3.6%) 
+
+Position 
+Change 
+(shares) 
+5.1%  
+19.6%  
+2.5%  
+22.1%  
+(0.3%) 
+7.3%  
+8.9%  
+10.2%  
+15.7%  
+
+ 
+Source: J.P. Morgan Securities Lending 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Source: J.P. Morgan Securities Lending 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+7 
+
+This material is provided by J.P. Morgan’s Prime Brokerage business for informational purposes only. It is not a product of J.P. Morgan’s Research Departments.  
+
+For intended Institutional Investor recipients only. The reference period for this publication is March 2015 unless otherwise stated. 
+
+ 
+
+Prime Brokerage Global Hedge Fund Trends – Securities Lending 
+
+For example, activity was heavy with respect to HSBC (0005 
+HK).     
+ 
+Korea 
+There  was  heavy  activity  around  banking  names  in  March 
+with  considerable  two-way  flow.  Chemicals  and  refiner 
+names also saw  significant activity as a result of stabilizing 
+oil  price,  which  gave  rise  to  heavy  covering.  Clients 
+generally  shied  away  from  industrials  such  as  ship  builders 
+and auto names. 
+ 
+
+Japan 
+Prime  Brokerage  short  balances  rose  in  March  while  swap 
+balances  also  increased.  There  was  movement  in  client 
+balances  during  the  month  as  funds  sought  counter-parties 
+offering the best dividend yields. March witnessed continued 
+locate  interest  and  borrow  activity  in  names  such  as  Mixi, 
+Inc.  (2121  JP),  Cookpad  Inc.  (2193  JP),  Cyberdyne,  Inc. 
+(7779 JP), Sharp Corporation (6753 JP), Yamada Denki Co. 
+Ltd.  (9831  JP)  and  Emori  Group  Holdings  Co.  Ltd.  (9963 
+JP).  
+ 
+
+Australia 
+Activity  picked  up  in  March  with  several  funds  shorting 
+Telecom  providers  TPG  Telecom  Limited  (TPM.AX)  and 
+iiNet  Limited  (IIN.AX)  based  on  possible  risks  to  the 
+proposed  merger.  Iron  ore  shorts  persisted  on  the  back  of 
+weakening iron ore spot prices and falling demand in China. 
+Funds continued to target large cap  miner Fortescue Metals 
+Group  Limited  (FMG.AX)  after  the  company  cancelled  a 
+bond issue at the final hour. However, borrow supply is tight 
+and funds were therefore capped in the volume of shorts they 
+could add.  
+ 
+ 
+
+Europe 
+Directional  short  interest  in  UK  supermarkets  stabilized  in 
+March. There was covering in Tesco PLC (TSCO LN) and J. 
+Sainsbury  PLC  (SBRY  LN),  with  Morrison  Supermarkets 
+PLC (MRW LN) fairly flat on the month. Only Ocado Group 
+PLC  (OCDO  LN)  saw  continued  shorting.  In  mainland 
+Europe, Sapiem SpA’s (SPM IM) short base increased by a 
+third  last  month  and  is  now  ranked  as  the  top  short  in  the 
+STOXX 600 Index as a percent of float. TalkTalk Telecom 
+Group  PLC  (TALK  LN)  has  remained  the  most  crowded 
+short in the Stoxx600 as  measured by average daily trading 
+volume to cover throughout March. TalkTalk has consistently 
+ranked  as  the  first  or  second  most  crowded  short  alongside 
+Zoopla Property Group PLC in the FTSE 350.  
+ 
+In  the  capital  raising  space,  borrow  in  Banca  Monte  Dei 
+Paschi di Siena S.p.A (BMPS IM) was in high demand and 
+became even less liquid in March. 
+ 
+In M&A, hedge funds continue to trade the spread in Spirit 
+Pub  Co.  PLC  (SPRT  LN)  /  Greene  King  PLC  (GNK  LN), 
+with  the borrow cost in Greene King doubling and lending 
+pools nearing 90% utilization.  
+ 
+In  convertible  bond  arbitrage,  key  launches  in  March 
+included  Telecom  Italia’s  (TIT  IM)  new  €2  billion 
+convertible,  Market  Tech’s  (MKT  LN)  new £112.5  million 
+issue,  Heidelberger Druckmaschinen’s  (HDD GR) new €56 
+million  issue,  and  Aabar  Investment’s  exchangeable  into 
+UniCredit  (UCG  IM).  Away  from  the  primary  issues,  there 
+has  been  renewed  stock  borrow  demand  Grand  City 
+Properties  (GYC  GR),  with  shares  on  loan  hitting  annual 
+highs. 
+ 
+Asia Ex-Japan 
+Taiwan 
+March saw considerable bias to new shorts in names such as 
+Taiwan  Semiconductor  Manufacturing  Company  Limited  
+(2330 TW) and Largan Precision  Co Ltd (3008 TW). Short 
+activity  also  was  driven  by  a  worsening  outlook  for  AU 
+Optronics (2409 TW) and MediaTek (2454 TW).   
+ 
+Hong Kong 
+The trend in Hong Kong in March was towards covering as 
+Chinese  banks  and  insurance  companies  began  reporting. 
+While there was limited opportunistic shorting, the majority 
+of  activity  was  in  covers  for  China  trackers  and  financials. 
+
+ 
+
+This material is provided by J.P. Morgan’s Prime Brokerage business for informational purposes only. It is not a product of J.P. Morgan’s Research Departments.  
+
+For intended Institutional Investor recipients only. The reference period for this publication is March 2015 unless otherwise stated. 
+
+8 
+
+ 
+
+Prime Brokerage Global Hedge Fund Trends – Institutional Investor Sentiment 
+
+Table 6: Investor strategies of interest by region4
+ 
+
+ 
+
+  
+
+ 
+
+Convertible 
+Arbitrage 
+ 
+Credit: 
+Distressed 
+
+ 
+Credit: 
+Long/Short 
+ 
+Equity Long 
+Short 
+ 
+Event 
+Driven 
+ 
+Macro 
+
+ 
+Emerging 
+Markets 
+ 
+CTA 
+
+ 
+Market 
+Neutral-
+Quant 
+ 
+Structured 
+Credit 
+ 
+Legend 
+Low Interest 
+ 
+Medium Interest 
+ 
+High Interest 
+
+North America 
+
+EMEA 
+
+Asia Pacific 
+
+Direction of 
+
+Interest 
+
+Level of 
+Interest 
+
+Direction of 
+
+Interest 
+
+Level of 
+Interest 
+
+Direction of 
+
+Interest 
+
+Level of 
+Interest 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Neutral 
+
+ 
+
+Neutral 
+
+ 
+
+Neutral 
+
+ 
+
+Neutral 
+
+ 
+
+Neutral 
+
+ 
+
+Neutral 
+
+ 
+
+Increasing 
+
+ 
+
+Neutral 
+
+ 
+
+Neutral 
+
+ 
+
+Neutral 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Neutral 
+
+ 
+
+Neutral 
+
+ 
+
+Increasing 
+
+ 
+
+Neutral 
+
+ 
+
+Decreasing 
+
+ 
+
+Neutral 
+
+ 
+
+Neutral 
+
+ 
+
+Neutral 
+
+ 
+
+Neutral 
+
+ 
+
+Neutral 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+Neutral 
+
+ 
+
+Neutral 
+
+ 
+
+Neutral 
+
+ 
+
+Neutral 
+
+ 
+
+Neutral 
+
+ 
+
+Neutral 
+
+ 
+
+Neutral 
+
+ 
+
+Neutral 
+
+ 
+
+Neutral 
+
+ 
+
+Neutral 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+Source: J.P. Morgan Capital Introduction Group
+
+and 
+
+access 
+
+return 
+
+streams 
+
+Institutional Investor Sentiment 
+ 
+North America 
+During March, the CIG met with several of the most active 
+institutional  investors  in  the  Chicago  region  to  gauge 
+allocation  trends  and  strategy  appetite  for  2015.  Most 
+allocators with which the CIG met expressed interest in non-
+U.S. focused  managers. Demand for Asia-focused strategies 
+is  particularly  acute  and  was  a  common  theme  in  these 
+meetings. Other strategies of interest among investors in the 
+Chicago  area  are  emerging  markets  and  reinsurance. Such 
+demand  seems  to  be  a  function  of  investors’  desire  to 
+diversify 
+uncorrelated 
+opportunities.  Energy  was  another  frequently-mentioned 
+strategy of interest. In addition to the distressed energy trade, 
+a number of investors are seeking exposure to the sector via 
+different  strategies,  including  equity  long  short.  Finally, 
+investors remain interested in discretionary global macro but 
+have  been  frustrated  by  their  inability  to  identify  managers 
+with  consistent  performance.  Demand  for  co-investment 
+opportunities remains a persistent theme. 
+ 
+EMEA  
+The CIG met with investors in Zurich, where activity appears 
+to  be  on  the  increase,  especially  among  family  offices  and 
+banks, many of which are adjusting their asset allocations in 
+favor of hedge funds. The overall trend among family offices 
+is an increase in exposure to less correlated strategies such as 
+discretionary  global  macro  and  equity  managers  with  tight 
+net  exposures.  Banks  and  asset  managers  are  developing 
+UCITS  offerings  in  response  to  client  demand,  and  family 
+offices  are  increasingly  looking  at  UCITS  as  an  alternative 
+cash  management  tool. Another  trend  among  family  offices 
+includes growing interest in Asia-focused strategies. 
+ 
+Asia Pacific 
+Equity long short remains popular among investors in Asia, 
+particularly  with  respect  to  less  directional  managers  and 
+sector specialists.  Other strategies that have captured pockets 
+of  interest  include  multi-strategy,  CTAs  and  fixed  income 
+relative value. Among investors in Japan, European strategies 
+have  started  to  garner  attention,  particularly  in  light  of  the 
+ECB’s easing program. 
+ 
+ 
+ 
+
+                                                 
+4 This information comes from CIG conference calls and  meetings with global hedge 
+fund managers and institutional investors. This table represents views of the CIG team 
+and may not be exhaustive. 
+
+9 
+
+This material is provided by J.P. Morgan’s Prime Brokerage business for informational purposes only. It is not a product of J.P. Morgan’s Research Departments.  
+
+For intended Institutional Investor recipients only. The reference period for this publication is March 2015 unless otherwise stated. 
+
+ 
+
+Prime Brokerage Global Hedge Fund Trends – Market Perspectives 
+
+March Commentary  
+Recent signs indicate that Europe’s economic trajectory may 
+be at an inflection point and finally on the cusp of a nascent 
+recovery. Although growth in the Euro zone during the first 
+quarter  of  2015  came  in  below  expectations  (0.2  versus 
+projections  of  0.4),  March  saw  added  momentum.  Both  the 
+Euro  zone’s  composite  PMI  and  economic  sentiment 
+indicator were robust in March and private sector activity in 
+Germany increased at the briskest pace since May 2011. The 
+ECB is now projecting growth of +1.5% for 2015, aided by 
+the tailwinds of falling energy prices, a weakening Euro and 
+higher  confidence  induced  partly  as  a  result  of  the  ECB’s 
+easing  program,  pursuant  to  which  the  central  bank  will 
+purchase in excess of €1 trillion in covered and government 
+bonds by September 2016. The ECB projects that, although 
+inflation  will  remain  in  neutral  during  2015,  it  will  achieve 
+the 2% target rate by 2017.  
+ 
+While Europe’s economic affairs are trending positively, its 
+political  affairs  are  not.  Across  the  continent,  parties  of  the 
+far left and right are gaining at the poles – see, e.g., Syriza in 
+Greece, UK’s Independence Party and the National Front in 
+France  –  as  a  result  of  increasing  hostility  to  the  European 
+project at local levels. Such sentiment poses a threat to many 
+of  the  structural  reforms  that  were  implemented  across  the 
+continent  in  recent  years.  Just  as  a  recovery  seems  to  be 
+taking hold in Europe, the continent’s politics are moving in 
+a direction that will render growth increasingly difficult. 
+ 
+The  following  sections  are  excerpts  from  J.P.  Morgan 
+Research  publications.  The  full  publications  can  be 
+accessed via the sources provided in the footnotes below. 
+ 
+US: is the dollar starting to drag? 5
+ 
+ 
+Although  some  market  commentators  have  argued  that  the 
+dollar’s recent move  was driven by positive news about the 
+US  outlook  and  thus  that  its  potential  negative  implications 
+for US GDP have been overstated,  we disagree. Since June 
+2014,  the  FOMC  has  downgraded  its  outlook  for  GDP 
+growth  over  2014-2015,  and  derivatives  markets  have 
+lowered their forecasts  for the pace of Fed  hiking. We thus 
+see little reason to believe that the dollar’s move since then 
+can  be  explained  by  improvements  in  the  US  outlook. 
+Further, we do not view the distinction between dollar moves 
+driven by the US growth outlook and moves driven by other 
+factors  as  crucial  for  predicting  implications  for  the  net 
+                                                 
+5 J.P. Morgan Economic Research, Economic Research Note, March 26, 2015: 
+https://jpmm.com/research/content/GPS-1665695-0. 
+
+export  contribution  to  GDP.  In  both  cases,  we  expect  the 
+partial  equilibrium  effect  of  dollar  strength  to  be  a  drag  on 
+net exports that should be reflected in our forecasts . . . .  
+ 
+We do note, as some market commentators have pointed out, 
+that the level of foreign GDP itself can play an independent 
+role  in  determining  export  growth,  as  it  does  in  these 
+regression  models.  The  J.P.  Morgan  Forecast  Revision 
+Indexes  show  that  we  have  downgraded  near-term  GDP 
+growth forecasts outside the United States by 1.2%-pts on net 
+since the middle of last year. If this downgrade represented a 
+permanent shock to the level of foreign GDP, our estimates 
+suggest an additional drag of about 2.2%-pts on real exports, 
+or 0.3%-pt on US GDP. This direct effect is modest relative 
+to the dollar’s, and if the downgrade is eventually paid back 
+in the form of higher future foreign growth, the net long-run 
+effect should revert to zero. 
+ 
+ 
+Oil Market Monthly6
+ 
+We revise  up our 2015 and  2016 Brent forecasts by$10/bbl 
+and  $5/bbl  to  $59/bbl  and  $62/bbl,  respectively,  as  market 
+rebalancing  has  outpaced  our  expectations.  Cuts  to  capex 
+plans  by  E&P  companies,  most  notably  in  the  US,  but  also 
+elsewhere,  have  been  more  aggressive  year-to-date  than 
+assumed in our previous balance. Separately, we see initials 
+signs  of  demand  improvement  in  some  EM  economies, 
+although  it  is  still  premature  to  extrapolate  the  nascent 
+recovery  into  full-blown  upgrades  to  demand  estimates, 
+particularly  against  the  backdrop  of  deteriorating  GDP 
+growth expectations. Excluding the US we find little data to 
+substantiate our expectation of rapid 1Q2015 crude builds, in 
+part explaining the underperformance of WTI so far this year. 
+ 
+Our  revised  view  regarding  US  production  growth  and 
+potential  declines  elsewhere  may  seem  relatively  innocuous 
+in near-term barrels per day terms, but it is the chipping away 
+at  the  volumetric  Atlantic  Basin  oversupply  that  has  most 
+impacted  price  formation  at  the  margin.  The  quicker-than-
+expected  pace  of  signs  of  demand-side  green  shoots  and 
+upstream  adjustments  prevented  the  expected  depth  of  the 
+price  collapse  from  being  achieved,  and  our  bottom-up 
+assessment  of  US  supply  developments  underpins 
+the 
+magnitude of our upward forecasted price revisions. 
+ 
+ 
+
+                                                 
+6J.P. Morgan Global Commodities Research, Oil Market Monthly, March 31, 2015, 
+https://jpmm.com/research/content/GPS-1669516-0. 
+
+10 
+
+This material is provided by J.P. Morgan’s Prime Brokerage business for informational purposes only. It is not a product of J.P. Morgan’s Research Departments.  
+
+For intended Institutional Investor recipients only. The reference period for this publication is March 2015 unless otherwise stated. 
+
+to 
+
+tax 
+
+information;  are  not  subject 
+
+investment in a hedge fund may not adequately compensate investors for the 
+business and financial risks assumed. An investor in hedge funds could lose 
+all or a substantial amount of its investment. While hedge funds are subject 
+to  market  risks  common  to  other  types  of  investments,  including  market 
+volatility, hedge funds employ certain trading techniques, such as the use of 
+leveraging and other speculative investment practices that may increase the 
+risk of investment loss. Other risks associated with hedge fund investments 
+include,  but  are  not  limited  to,  the  fact  that  hedge  funds  can  be  highly 
+illiquid; are not required to provide periodic pricing or valuation information 
+to investors; may involve complex tax structures and delays in distributing 
+important 
+the  same  regulatory 
+requirements  as  mutual  funds;  often  charge  higher  fees  and  the  high  fees 
+may offset the fund’s trading profits; may have a limited operating history; 
+can  have  performance  that  is  volatile;  may  have  a  fund  manager  who  has 
+total trading authority over the fund and the use of a single adviser applying 
+generally similar trading programs could mean a lack of diversification, and 
+consequentially,  higher  risk;  may  not  have  a  secondary  market  for  an 
+investor’s  interest  in  the  fund  and none  may  be  expected  to  develop;  may 
+have  restrictions  on  transferring  interests  in  the  fund;  and  may  effect  a 
+substantial portion of its trades on foreign exchanges. 
+ 
+JPMorgan may (as agent or principal) have positions (long or short), effect 
+transactions or make markets in securities or financial instruments mentioned 
+herein (or derivatives with respect thereto), or provide advice or loans to, or 
+participate in the underwriting or restructuring of the obligations of, issuers 
+mentioned  herein.  JPMorgan  may  engage  in  transactions  in  a  manner 
+inconsistent with the views discussed herein. 
+ 
+IRS Circular 230 Disclosure: JPMorgan Chase & Co. and its affiliates do not 
+provide tax advice. Accordingly, any discussion of U.S. tax matters included 
+herein (including any attachments) is not intended or written to be used, and 
+cannot  be  used, 
+the  promotion,  marketing  or 
+recommendation  by  anyone  not  affiliated  with  JPMorgan  Chase  &  Co.  of 
+any of the matters addressed herein or for the purpose of avoiding U.S. tax-
+related penalties. 
+ 
+©  2015  JPMorgan  Chase  &  Co.  All  rights  reserved.  All  product  names, 
+company  names  and  logos  mentioned  herein  are  trademarks  or  registered 
+trademarks  of  their  respective  owners.  Access  to  financial  products  and 
+execution services is offered through J.P. Morgan Securities LLC (“JPMS”) 
+and J.P. Morgan Securities plc (“JPMS plc”). Clearing, prime brokerage and 
+custody services are provided by J.P. Morgan Clearing Corp. (“JPMCC”) in 
+the US and JPMS plc in the UK. JPMS and JPMCC are separately registered 
+US  broker  dealer  affiliates  of  JPMorgan  Chase  &  Co.,  and  are  each  
+members  of  FINRA,  NYSE  and  SIPC.  JPMS  plc  is  authorized  by  the 
+Prudential  Regulation  Authority  and  regulated  by  the  Financial  Conduct 
+Authority and the Prudential Regulation Authority in the UK. J.P. Morgan 
+Securities (Asia Pacific) Limited is regulated by the Hong Kong Monetary 
+Authority and the Securities and Futures Commission of Hong Kong. Other 
+investment  banking  affiliates  and  subsidiaries  of  J.P.  Morgan  in  other 
+jurisdictions worldwide are  registered with local authorities as appropriate. 
+Please  consult  http://www.jpmorgan.com/pages/jpmorgan/investbk/global 
+for more information. 
+
+in  connection  with 
+
+ 
+
+Important Information and Disclaimers 
+
+institutional 
+
+Contact Us: 
+ 
+Alessandra Tocco 
+Alessandra.Tocco@jpmorgan.com 
+212-272-9132 
+ 
+Kenny King, CFA 
+Kenny.King@jpmorgan.com 
+212-622-5043 
+ 
+Christopher M. Evans 
+c.m.evans@jpmorgan.com 
+212-622-5693 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This  material  (“Material”)  is  provided  by  J.P.  Morgan’s  Prime  Brokerage 
+business for informational purposes only. It is not a product of J.P. Morgan’s 
+Research  Departments.  This  Material  includes  data  and  viewpoints  from 
+various departments and businesses within JPMorgan Chase & Co., as well 
+as  from  third  parties  unaffiliated  with  JPMorgan  Chase  &  Co.  and  its 
+subsidiaries.  The  generalized  hedge  fund  and 
+investor 
+information  presented  in  this  Material,  including  trends  referred  to  herein, 
+are  not  intended  to  be  representative  of  the  hedge  fund  and  institutional 
+investor  communities  at  large.  This  Material  is  provided  directly  to 
+professional and institutional investors and is not intended for nor may it be 
+provided to retail clients. 
+ 
+This  Material  has  not  been  verified  for  accuracy  or  completeness  by 
+JPMorgan Chase & Co. or by any of its subsidiaries, affiliates, successors, 
+assigns, agents, or by any of their respective officers, directors, employees, 
+agents  or  advisers  (collectively,  “JPMorgan”),  and  JPMorgan  does  not 
+guarantee  this  Material  in  any  respect,  including  but  not  limited  to,  its 
+accuracy,  completeness  or  timeliness.  Information  for  this  Material  was 
+collected  and  compiled  during  the  stated  timeframe,  if  applicable.  Past 
+performance is not necessarily indicative of future results and JPMorgan in 
+no way guarantees the investment performance, earnings or return of capital 
+invested  in  any  of  the  products  or  securities  detailed  in  the  Material. 
+JPMorgan  has  no  obligation  to  update  any  portion  of  this  Material.  This 
+Material may not be relied upon as definitive, and shall not form the basis of 
+any  decisions.  It  is  the  user’s  responsibility  to  independently  confirm  the 
+information presented in this Material, and to obtain any other information 
+deemed relevant to any decision made in connection with the subject matter 
+contained in this Material. Users of this Material are encouraged to seek their 
+own professional experts as they deem appropriate, including, but not limited 
+to, tax, financial, legal, investment or equivalent advisers, in relation to the 
+subject matter covered by this Material. JPMorgan makes no representations 
+(and 
+implied  warranties  and 
+representations are hereby excluded), and JPMorgan takes no responsibility 
+for the information presented in this Material. This Material is provided for 
+informational purposes only and for the intended institutional investor users’ 
+use only, and no portion of this Material may be reproduced or distributed 
+for  any  purpose  without  the  express  written  permission  of  JPMorgan.  The 
+provision of this Material does not constitute, and shall not be construed as 
+constituting  or  be  deemed  to  constitute,  a  solicitation  of,  or  offer  or 
+inducement to provide or carry on, any type of investment service or activity 
+by  JPMorgan.  Under  all  applicable  laws,  including,  but  not  limited  to,  the 
+US Employee Retirement Income Security Act of 1974, as amended, or the 
+US  Internal  Revenue  Code  of  1986 or  the  Financial  Services  and Markets 
+Act 2000 (Regulated Activities) Order 2001, as amended, no portion of this 
+Material  shall  constitute,  or  be  construed  as  constituting  or  be  deemed  to 
+constitute “investment advice” for any purpose, and JPMorgan shall not be 
+considered  as  a  fiduciary  of  any  person  or  institution  for  any  purpose  in 
+relation to this Material. This Material shall not be construed as constituting 
+or be deemed to constitute an invitation to treat in respect of, an offer or a 
+solicitation  of an  offer  to  buy  or  sell  any  securities  or constitute  advice to 
+buy or sell any security. This Material is not intended as tax, legal, financial 
+or  equivalent  advice  and  should  not  be  regarded  or  used  as  such.  This 
+Material should not be relied upon for compliance. 
+ 
+An investment in a hedge fund is speculative and involves a high degree of 
+risk, which each investor must carefully consider. Returns generated from an 
+
+the  extent  permitted  by 
+
+law,  all 
+
+to 
+
+This material is provided by J.P. Morgan’s Prime Brokerage business for informational purposes only. It is not a product of J.P. Morgan’s Research Departments.  
+
+For intended Institutional Investor recipients only. The reference period for this publication is March 2015 unless otherwise stated. 
+
+11 
+
+
